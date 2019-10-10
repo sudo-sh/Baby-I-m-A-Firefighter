@@ -3,5 +3,7 @@
 
 ### Descrepencies
 
-	1. Install python3 pygame
-		`pip3 install pygame`
+1. Install python3 pygame
+
+`pip3 install pygame`
+
